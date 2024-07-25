@@ -1,5 +1,7 @@
 # Email subscribe component
 
-![Mobile screenshot](./img/mobile.png)
+Email capture component in Tailwind CSS.
+
+![Mobile screenshot](./img/mobile.png =400x300)
 
 ![Desktop screenshot](./img/desktop.png)
