@@ -8,4 +8,4 @@ Fully responsive email capture component in Tailwind CSS.
 
 ## Desktop
 
-![Desktop screenshot](./img/desktop.png)
+![Desktop screenshot](./img/desktop_resized.png)
