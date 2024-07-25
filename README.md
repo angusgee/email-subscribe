@@ -1,7 +1,11 @@
 # Email subscribe component
 
-Email capture component in Tailwind CSS.
+Fully responsive email capture component in Tailwind CSS.
+
+## Mobile view
 
 ![Mobile screenshot](./img/mobile.png)
+
+## Desktop
 
 ![Desktop screenshot](./img/desktop.png)
