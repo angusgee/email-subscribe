@@ -2,6 +2,6 @@
 
 Email capture component in Tailwind CSS.
 
-![Mobile screenshot](./img/mobile.png){ style="max-height: 350px;" }
+![Mobile screenshot](./img/mobile.png)
 
 ![Desktop screenshot](./img/desktop.png)
